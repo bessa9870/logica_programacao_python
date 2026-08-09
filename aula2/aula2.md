@@ -33,6 +33,7 @@ O Python separa seus dados em tipos, chanmamos tipos de dados, definindo os valo
 | Números inteiros | int | Um número inteiro qualquer (1, 2, 10..)|
 | Números decimais (ponto flutuante) | float | Um número com casas decimais (1.1, 10,155...)|
 | Texto (string) | str | sequência de caracteres (qualquer caractere abc123!@#...) |
+
 Varíaveis primitivas simples só aceitam 1 valor por variável
 
 Além dos tipos simples, o Python possui tipos compostos, variáveis que aceitam mais de um valor por vez, como textos e listas: 
