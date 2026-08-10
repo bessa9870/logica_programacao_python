@@ -48,7 +48,7 @@ Além dos tipos simples, o Python possui tipos compostos, variáveis que aceitam
 ## TÓPICO 2 - ENTRADA, SAÍDA E CONCATENAÇÃO DE STRINGS
 
 ### 2.1 - FERRAMENTAS DE ENTRADA E SAÍDA
-Num programa orientado ao mundo real, é necessário haver interatividade com o usuário. Os dados a serem computados devem vir do usuário (na maioria das vezes), é aí que entram as estruturas de entrada via teclado e saída de dados via monitor.
+Num programa orientado ao mundo real, é necessário haver interatividade. Os dados a serem computados devem vir do usuário (na maioria das vezes), é aí que entram as estruturas de entrada (via teclado) e saída de dados (via monitor. Existem mais dispositivos de entrada saída, porém, os mais usuais ao usuário são teclado e monitor).
 
 #### Ferramentas de entrada e saída
 | Função | O quê faz? |
