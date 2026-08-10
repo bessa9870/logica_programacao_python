@@ -3,7 +3,7 @@
 ## TÓPICO 1 - VARIÁVEIS E TIPOS DE DADOS
 
 ### 1.1 - A LINGUAGEM COMPUTACIONAL E AS VARIÁVEIS:
-O computador só entende 0s e 1s (os códigos binários), umm endereço na memória pode ter dezenas de zeros e ums, por isso, usamos variáveis (fichas nomeadas) para acessar um endereço de memória afim de armazenar/modificar dados coletados num programa. É fundamental utilizar o tipo de memória correto para o dado coletado, um número, uma letra ou um texto, cada um tem seu tipo. Dessa forma, o programa fica mais leve e mais otimizado.
+O computador só entende 0s e 1s (os códigos binários), um endereço na memória pode ter dezenas deles, por isso, usamos variáveis (fichas nomeadas) para acessar um endereço de memória afim de armazenar/modificar dados coletados num programa. Variáveis tẽm tipagem, a tipagem define o quanto a variável vai ocupar na memória, é fundamental utilizar o tipo correto para o dado coletado, um número, uma letra ou um texto, cada um tem seu tipo. Dessa forma, o programa fica mais leve e mais otimizado.
 
 ### 1.2 - UNIDADES DE ARMAZENAMENTO DE MEMÓRIA:
 Bit (b): A menor unidade de armazenamento é o bite, que contêm apenas 0 ou 1;
