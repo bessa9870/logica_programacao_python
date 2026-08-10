@@ -31,7 +31,7 @@ O Python separa seus dados em tipos, chamamos tipos de dados, definindo os valor
 | :-- | :-- | :-- |
 | Lógico | bool | True/False |
 | Números inteiros | int | Um número inteiro qualquer (1, 2, 10..)|
-| Números decimais (ponto flutuante) | float | Um número com casas decimais (1.1, 10,155...)|
+| Números decimais (ponto flutuante) | float | Um número com casas decimais (1.1, 10.155, 11.7...)
 | Texto (string) | str | sequência de caracteres (qualquer caractere abc123!@#...) |
 
 Varíaveis primitivas simples só aceitam 1 valor por variável
