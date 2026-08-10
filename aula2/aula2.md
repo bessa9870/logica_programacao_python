@@ -80,10 +80,6 @@ Existem três formas de realizar uma saída de dados com a função print:
 | 2 | Separar por vírgula | print("Olá, meu nome é", nome, "e eu tenho", idade, "anos.") |
 | 3 | Estilo C | print("Olá, meu nome é %s e eu tenho %d anos." % (nome, idade)) |
 
-1. Basta colocar a letra f antes das aspas e o nome da variável direto dentro de chaves { };
-2. 2. A própria função print() do Python aceita múltiplos valores separados por vírgula;
-3. O estilo C, usando especificadores dentro da string e posicionando as variáveis em ordem fora.
-
 ### 2.4 - OPERAÇÃO DE CONCATENAÇÃO DE STRINGS
 Para concatenar uma string, basta usar o operador de soma +.
 nome = 'João'
