@@ -6,12 +6,12 @@
 O computador só entende 0s e 1s (os códigos binários), um endereço na memória pode ter dezenas deles, por isso, usamos variáveis (fichas nomeadas) para acessar um endereço de memória afim de armazenar/modificar dados coletados num programa. Variáveis tẽm tipagem, a tipagem define o quanto a variável vai ocupar na memória, é fundamental utilizar o tipo correto para o dado coletado, um número, uma letra ou um texto, cada um tem seu tipo. Dessa forma, o programa fica mais leve e mais otimizado.
 
 ### 1.2 - UNIDADES DE ARMAZENAMENTO DE MEMÓRIA:
-Bit (b): A menor unidade de armazenamento é o bite, que contêm apenas 0 ou 1;
-Byte (B): Igual a 8 bits. Pode armazenar um caractere, como uma letra;
-Kilobyte (KB): Igual a 1,024 bytes. Pode armazenar um pequeno arquivo de texto.
-Megabyte (MB): Igual a 1,024 KB. Pode armazenar fotos ou arquivos de som pequenos.
-Gigabyte (GB): Igual a 1,024 MB. Pode armazenar aplicativos, é bem usado em celulares.
-Terabyte (TB): Igual a 1,024 GB. Pode armazenar arquivos massivos como um biblioteca de jogos.
+- Bit (b): A menor unidade de armazenamento é o bite, que contêm apenas 0 ou 1;
+- Byte (B): Igual a 8 bits. Pode armazenar um caractere, como uma letra;
+- Kilobyte (KB): Igual a 1,024 bytes. Pode armazenar um pequeno arquivo de texto.
+- Megabyte (MB): Igual a 1,024 KB. Pode armazenar fotos ou arquivos de som pequenos.
+- Gigabyte (GB): Igual a 1,024 MB. Pode armazenar aplicativos, é bem usado em celulares.
+- Terabyte (TB): Igual a 1,024 GB. Pode armazenar arquivos massivos como um biblioteca de jogos.
 
 ### 1.3 - O QUE SÃO VARIÁVEIS:
 A memória de um computador é como uma tabela gigante, cada célula tem seu endereço identificador, uma sequência grande de 0s e 1s. Por isso, usamos variáveis nomeadas. Num programa em Python onde é necessário atribuir um número de identificação ao usuário, basta nomear uma variável e atribuir o valor:
