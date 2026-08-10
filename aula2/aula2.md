@@ -21,10 +21,10 @@ A memória de um computador é como uma tabela gigante, cada célula tem seu end
 | ID do Usuário | `id_usuario = 15` |
 
 ### 1.4 - A TIPAGEM EM PYTHON:
-O próprio Python vai inserir o 15 na memória, alocando o espaço perfeito (nem um byte a mais ou a menos). Sempre que você quiser recuperar esse valor, basta chamar o identificador "id_usuario", muito mais simples do que digitar dezenas de 0s e 1s.
+O próprio Python vai inserir o 15 na memória, alocando o espaço perfeito (nem um byte a mais ou a menos). Sempre que você quiser recuperar esse valor, basta chamar o identificador | "id_usuario" |, muito mais simples do que digitar dezenas de 0s e 1s.
 
 ### 1.5 - TIPOS DE DADOS
-O Python separa seus dados em tipos, chanmamos tipos de dados, definindo os valores representados e possível operações, por exemplo: somar dois números inteiros (int + int) é possível, mas somar uma booleana com uma int(bool + int) não. Vejamos os tipos primitivos:
+O Python separa seus dados em tipos, chamamos tipos de dados, definindo os valores representados e possível operações, por exemplo: somar dois números inteiros (int + int) é possível, mas somar uma booleana com uma int (bool + int) não. Vejamos os tipos primitivos:
 
 #### Tipos primitivos
 | Tipo de dado | Tipo | Valor possível |
