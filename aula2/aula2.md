@@ -53,7 +53,7 @@ Num programa orientado ao mundo real, é necessário haver interatividade. Os da
 #### Ferramentas de entrada e saída
 | Função | O quê faz? |
 | :-- | :-- |
-| input() | parâmetro usado para ler um valor e atribuir a variável À esquerda |
+| input() | uma função usado para ler um valor e inserir na variável à esquerda |
 | print() | uma função que vai ler e exibir o que estiver dentro dos parênteses |
 
 ### 2.2 - ENTRRDA, CONVERSÃO DE DADOS:
