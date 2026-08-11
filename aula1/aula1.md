@@ -1,4 +1,4 @@
-Introdução a lógica de programação em Python - Aula 1.1
+INTRODUÇÃO A LÓGICA DE PROGRAMAÇÃO EM PYTHON - AULA 1.1
 
 TÓPICO 1: Elementos da lógica de programação.
 
