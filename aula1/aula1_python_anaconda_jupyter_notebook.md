@@ -2,9 +2,9 @@ Introdução a lógica de programação em Python - Aula 1.1
 
 TÓPICO 1: Elementos da lógica de programação.
 
-    A programação é o que dá vida para todos os aplicativos de celulares, editores de texto e muito mais. Para entender como tudo isso funciona vamos estudar o Python, suas principais características, elementos básicos e um pouco da sua história.
+A programação é o que dá vida para todos os aplicativos de celulares, editores de texto e muito mais. Para entender como tudo isso funciona vamos estudar o Python, suas principais características, elementos básicos e um pouco da sua história.
 
-    Pensar de forma racional é uma característica muito importante da raça humana. Raciocinar é chegar a uma conclusão válida a partir de uma ideia inicial e a um conjunto de regras que conectam a ideia à conclusão. No caso de se inscrever em um curso para obter uma certificação é necessário seguir uma série de passos:
+Pensar de forma racional é uma característica muito importante da raça humana. Raciocinar é chegar a uma conclusão válida a partir de uma ideia inicial e a um conjunto de regras que conectam a ideia à conclusão. No caso de se inscrever em um curso para obter uma certificação é necessário seguir uma série de passos:
 
 (Passo 1)                           (Passo 2)                       (Passo 3)                   (Objetivo final)
 Assistir todas as aulas     -->     Estudar o conteúdo      -->     Passar na prova      =      Certificação
