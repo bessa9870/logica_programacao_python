@@ -1,4 +1,4 @@
-# Introdução a lógica de programação em Python - Aula 1.2
+# INTRODUÇÃO A LÓGICA DE PROGRAMAÇÃO EM PYTHON - AULA 1.2
 
 ## TÓPICO 1 - VARIÁVEIS E TIPOS DE DADOS
 
