@@ -1,6 +1,6 @@
 # INTRODUÇÃO A LÓGICA DE PROGRAMAÇÃO EM PYTHON - AULA 1.1
 
-TÓPICO 1: Elementos da lógica de programação.
+## TÓPICO 1: Elementos da lógica de programação.
 
 A programação é o que dá vida para todos os aplicativos de celulares, editores de texto e muito mais. Para entender como tudo isso funciona vamos estudar o Python, suas principais características, elementos básicos e um pouco da sua história.
 
