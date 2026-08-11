@@ -6,8 +6,9 @@ A programação é o que dá vida para todos os aplicativos de celulares, editor
 
 Pensar de forma racional é uma característica muito importante da raça humana. Raciocinar é chegar a uma conclusão válida a partir de uma ideia inicial e a um conjunto de regras que conectam a ideia à conclusão. No caso de se inscrever em um curso para obter uma certificação é necessário seguir uma série de passos:
 
-(Passo 1)                           (Passo 2)                       (Passo 3)                   (Objetivo final)
-Assistir todas as aulas     -->     Estudar o conteúdo      -->     Passar na prova      =      Certificação
+|(Passo 1)|(Passo 2)|(Passo 3)|(Objetivo final)
+| :-- | :-- | :-- | :-- |
+|Assistir todas as aulas|Estudar o conteúdo|Passar na prova|Certificação|
 
     Essa sequência finita de passos simples e bem definidos para se resolver um problema se chama algoritmo, eu posso usar esse mesmo algoritmo para alcançar mais de uma certificação de cursos online. Todo algoritmo é composto por três elementos: Entrada, processamento e saída. 
 
