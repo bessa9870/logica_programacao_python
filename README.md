@@ -1,3 +1,7 @@
+# Aula 1
+
+## Tópico 1 - 
+
 # Aula 2
 
 ## Tópico 1 - Variáveis e tipos de dados em Python
