@@ -20,9 +20,7 @@ Um computador não compreende linguagem natural, não é possível criar um prog
 *(Quão mais próxima a linguagem de programação for da linguagem natural, maior será o nível da linguagem.)*
 
 ## TÓPICO 2: A linguagem de programação Python.
-
 Agora, este tópico abordará sobre os elementos gerais do Python, quando foi desenvolvido, para quem serve, suas principais características e iniciar o primeiro código em Python para compreender como ele é capaz de resolver diversos problemas computacionais.
-
 1. Código-fonte: uma linguagem de programação define um vocabulário e um conjunto de regras para que se possa descrever diferentes algoritmos em forma textual, estes são os elementos formais que podem ser entendidos por humanos e, como já foi apresentado, traduzidos para algo que os computadores entendam. Existem duas formas de tradução: 
 2. Compilação: Quando o código é traduzido apenas uma vez e gera um arquivo executável específico para aquele sistema operacional.
 3. Interpretação: Quando o código-fonte é traduzido sempre é executado, podendo ser interpretado por qualquer sistema operacional.
