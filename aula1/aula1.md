@@ -25,7 +25,7 @@ Agora, este tópico abordará sobre os elementos gerais do Python, quando foi de
 2. Compilação: Quando o código é traduzido apenas uma vez e gera um arquivo executável específico para aquele sistema operacional.
 3. Interpretação: Quando o código-fonte é traduzido sempre é executado, podendo ser interpretado por qualquer sistema operacional.
 
-Os códigos-fonte escritos em Python são arquivos com extensão .py, sendo uma linguagem interpretada criada nos anos 1990 por Guido van Rossum, um matemático e programador holandês. Usando o Python você pode escrever programas com ela para automatizar o seu trabalho, fazer comunicação via internet, criar novas tecnologias e muito mais(Pesquisar sobre o Zen of Python).
+Os códigos-fonte escritos em Python são arquivos com extensão .py, sendo uma linguagem interpretada **(criada nos anos 1990 por Guido van Rossum, um matemático e programador holandês)**. Usando o Python você pode escrever programas com ela para automatizar o seu trabalho, fazer comunicação via internet, criar novas tecnologias e muito mais(Pesquisar sobre o Zen of Python).
 
 ## Tópico 3: Anaconda Python.
 
