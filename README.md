@@ -1,5 +1,4 @@
 # Aula 1
-
 ## Tópico 1 - Elementos da lógica de programação
 * **1.1 - Algoritmos**
   * *(Sequência de passos)*
@@ -21,7 +20,6 @@
 
 ---
 # Aula 2
-
 ## Tópico 1 - Variáveis e tipos de dados em Python
 
 * **1.1 - A linguagem computacional e as variáveis**
